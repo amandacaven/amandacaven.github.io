@@ -1,0 +1,228 @@
+body{
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0 auto;
+
+}
+
+h2{
+    font-size: 20px;
+}
+
+header{
+    background-color: black;
+    top: 0px;
+    
+    width: 100%;
+}
+
+nav{
+
+    font-family: 'Aaargh';
+    font-size: 16px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul{
+    margin: 0 auto;
+    padding: 15px;
+
+}
+
+ul li{
+
+    margin-right: 3%;
+    margin-left: 3%;
+    display: inline;
+   
+
+}
+
+nav a{
+ 
+
+}
+
+nav a:link{
+    color: white;
+    text-decoration: none;
+    
+    
+}
+
+nav a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+#logo{
+    margin: 0 auto;
+
+}
+
+#tagline{
+   
+    margin: 0 auto;
+}
+
+#cover{
+    height: 650px;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-image: url('_images/5.jpg');
+    background-position: 50% 50%;
+
+
+}
+
+section{
+        
+}
+
+#worksquare{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+#worksquare2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+#worksquare3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+#square1{
+    background: url(_images/universe_gray.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square2{
+    background: url(_images/paranoidcrop_ai.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+}
+
+#square3{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square4{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square5{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square6{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square7{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square8{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square9{
+    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin: 1%;
+
+
+}
+
+#square1:hover{
+    opacity: .5;
+}
+
+#about{
+    display: flex;
+    justify-content: center;
+/*    align-items: center;*/
+        background-image: url('_images/5.jpg');
+    background-position: 50% 50%;
+    height: 400px;
+}
+
+#contact{
+    display: flex;
+    justify-content: center;
+/*    align-items: center;*/
+    
+    height: 400px;
+}
+
+
+
+
+footer{
+    background-color: gray;
+    height: 200px;
+}
