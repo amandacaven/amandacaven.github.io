@@ -78,7 +78,7 @@ nav a:hover{
     justify-content: center;
     align-items: center;
     display: flex;
-    background-image: url('_images/5.jpg');
+    background-image: url('images/5.jpg');
     background-position: 50% 50%;
 
 
@@ -110,7 +110,7 @@ section{
 }
 
 #square1{
-    background: url(_images/universe_gray.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/universe_gray.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -120,7 +120,7 @@ section{
 }
 
 #square2{
-    background: url(_images/paranoidcrop_ai.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/paranoidcrop_ai.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -129,7 +129,7 @@ section{
 }
 
 #square3{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -139,7 +139,7 @@ section{
 }
 
 #square4{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -149,7 +149,7 @@ section{
 }
 
 #square5{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -159,7 +159,7 @@ section{
 }
 
 #square6{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -169,7 +169,7 @@ section{
 }
 
 #square7{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -179,7 +179,7 @@ section{
 }
 
 #square8{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
@@ -189,7 +189,7 @@ section{
 }
 
 #square9{
-    background: url(_images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
