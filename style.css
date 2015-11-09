@@ -113,6 +113,9 @@ section{
     opacity: .5;
 }
 
+#worksquare2 a:hover{
+    opacity: .5;
+}
 
 #worksquare2{
     display: flex;
