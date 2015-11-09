@@ -119,6 +119,7 @@ section{
     justify-content: center;
     align-items: center;
     background-color: white;
+    text-align: center;
 }
 
 #worksquare3{
@@ -205,8 +206,22 @@ section{
     height: 250px;
     float: left;
     margin: 1%;
+    position: relative;
 
 
+}
+
+#square4 a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    text-decoration: none; /* No underlines on the link */
+    z-index: 10; /* Places the link above everything else in the div */
+    background-color: #FFF; /* Fix to make div clickable in IE */
+    opacity: 0; /* Fix to make div clickable in IE */
+    filter: alpha(opacity=1); /* Fix to make div clickable in IE */
 }
 
 #square5{
