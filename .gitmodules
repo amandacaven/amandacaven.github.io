@@ -4,3 +4,6 @@
 [submodule "electricDreams"]
 	path = electricDreams
 	url = https://github.com/amandacaven/electricDreams.git
+[submodule "slider"]
+	path = slider
+	url = https://github.com/amandacaven/slider.git
