@@ -1,9 +1,0 @@
-[submodule "MADlibs"]
-	path = MADlibs
-	url = https://github.com/amandacaven/MADlibs.git
-[submodule "electricDreams"]
-	path = electricDreams
-	url = https://github.com/amandacaven/electricDreams.git
-[submodule "jqueryFAQ"]
-	path = jqueryFAQ
-	url = https://github.com/amandacaven/jqueryFAQ.git
