@@ -7,3 +7,6 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/amandacaven/slider.git
+[submodule "portfolio"]
+	path = portfolio
+	url = https://github.com/amandacaven/portfolio.git
