@@ -10,3 +10,6 @@
 [submodule "portfolio"]
 	path = portfolio
 	url = https://github.com/amandacaven/portfolio.git
+[submodule "saddle"]
+	path = saddle
+	url = https://github.com/amandacaven/saddle.git
