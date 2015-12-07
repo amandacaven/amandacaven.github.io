@@ -13,3 +13,6 @@
 [submodule "saddle"]
 	path = saddle
 	url = https://github.com/amandacaven/saddle.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/amandacaven/lightbox.git
