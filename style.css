@@ -1,4 +1,17 @@
 @font-face {
+    font-family: 'bebas_neuebold';
+    src: url('fonts/bebasneue_bold-webfont.eot');
+    src: url('fonts/bebasneue_bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bebasneue_bold-webfont.woff2') format('woff2'),
+         url('fonts/bebasneue_bold-webfont.woff') format('woff'),
+         url('fonts/bebasneue_bold-webfont.ttf') format('truetype'),
+         url('fonts/bebasneue_bold-webfont.svg#bebas_neuebold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
     font-family: 'aaarghnormal';
     src: url('fonts/aaargh-webfont.eot');
     src: url('fonts/aaargh-webfont.eot?#iefix') format('embedded-opentype'),
@@ -32,8 +45,8 @@ header{
 
 nav{
 
-    font-family: Verdana, 'aaarghnormal';
-    font-size: 16px;
+    font-family: 'bebas_neuebold';
+    font-size: 20px;
     margin: 0 auto;
     text-align: center;
 }
@@ -108,6 +121,8 @@ section{
     align-items: center;
     background-color: white;
     text-align: center;
+    font-family: 'bebas_neuebold';
+    font-size: 35px;
 }
 
 #worksquare a:hover{
@@ -118,12 +133,18 @@ section{
     opacity: .5;
 }
 
+#worksquare3 a:hover{
+    opacity: .5;
+}
+
 #worksquare2{
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: white;
     text-align: center;
+        font-family: 'bebas_neuebold';
+        font-size: 35px;
 }
 
 #worksquare3{
@@ -131,6 +152,9 @@ section{
     justify-content: center;
     align-items: center;
     background-color: white;
+        text-align: center;
+        font-family: 'bebas_neuebold';
+        font-size: 35px;
 }
 
 #square1{
@@ -168,6 +192,7 @@ section{
     position: relative;
         /*line-height is putting text in middle*/
     line-height: 250px;
+    color: gray;
 
 }
 
@@ -287,13 +312,28 @@ section{
 }
 
 #square7{
-    background: url(images/11.jpg) 50% 50% no-repeat; /* 50% 50% centers image in div */
+    background: url(images/paulbunyan.png) 50% 50% no-repeat; /* 50% 50% centers image in div */
     width: 250px;
     height: 250px;
     float: left;
     margin: 1%;
+    position: relative;
+    /*line-height is putting text in middle*/
+    line-height: 250px;
 
+}
 
+#square7 a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    text-decoration: none; /* No underlines on the link */
+    z-index: 10; /* Places the link above everything else in the div */
+    background-color: #FFF; /* Fix to make div clickable in IE */
+    opacity: 0; /* Fix to make div clickable in IE */
+    filter: alpha(opacity=1); /* Fix to make div clickable in IE */
 }
 
 #square8{
