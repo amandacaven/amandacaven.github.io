@@ -16,3 +16,6 @@
 [submodule "lightbox"]
 	path = lightbox
 	url = https://github.com/amandacaven/lightbox.git
+[submodule "timing"]
+	path = timing
+	url = https://github.com/amandacaven/timing.git
