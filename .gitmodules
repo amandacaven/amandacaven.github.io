@@ -19,3 +19,6 @@
 [submodule "timing"]
 	path = timing
 	url = https://github.com/amandacaven/timing.git
+[submodule "MADlibs"]
+	path = MADlibs
+	url = https://github.com/amandacaven/MADlibs.git
